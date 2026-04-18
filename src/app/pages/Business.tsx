@@ -45,7 +45,7 @@ export function Business() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-purple-50 to-white pb-8">
       {/* Header */}
-      <header className="bg-purple-600 text-white py-6 px-6 shadow-lg sticky top-0 z-10">
+      <header className="bg-cyan-700 text-white py-6 px-6 shadow-lg sticky top-0 z-10">
         <div className="max-w-2xl mx-auto">
           <Link to="/" className="inline-flex items-center gap-2 mb-4 text-purple-100 hover:text-white">
             <ArrowLeft className="w-6 h-6" />
@@ -88,7 +88,7 @@ export function Business() {
                 key={item.step}
                 className="bg-white rounded-2xl shadow-md p-5 flex items-center gap-4"
               >
-                <div className="bg-purple-600 text-white rounded-full w-12 h-12 flex items-center justify-center flex-shrink-0">
+                <div className="bg-cyan-700 text-white rounded-full w-12 h-12 flex items-center justify-center flex-shrink-0">
                   <span className="text-xl font-bold">{item.step}</span>
                 </div>
                 <p className="text-gray-800 text-lg font-medium">{item.text}</p>

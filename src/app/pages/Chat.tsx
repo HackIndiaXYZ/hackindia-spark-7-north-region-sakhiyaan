@@ -39,11 +39,11 @@ export function Chat() {
             <span className="text-lg">Back to Home</span>
           </Link>
           <div className="flex items-center gap-3">
-            <div className="rounded-2xl bg-white/15 p-3">
+            <div className="rounded-2xl bg-white/12 p-3">
               <MessageCircle className="w-8 h-8" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold">Chat</h1>
+              <h1 className="text-3xl font-bold text-[#c6d9cf]">Chat</h1>
               <p className="text-[#dff8f3]">Stay connected with mentors, neighbors, and buyers</p>
             </div>
           </div>
