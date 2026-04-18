@@ -39,8 +39,8 @@ export function AppLayout() {
               <Sparkles className="h-5 w-5" />
             </div>
             <div className="min-w-0 group-data-[collapsible=icon]:hidden">
-              <p className="text-xs font-semibold uppercase tracking-[0.35em] text-[#8d7455]">Shakti Network</p>
-              <h1 className="text-lg font-bold text-[#17363f]">Rise Together</h1>
+              {/* <p className="text-xs font-semibold uppercase tracking-[0.35em] text-[#8d7455]">Shakti Network</p> */}
+              <h1 className="text-lg font-bold text-[#17363f]">Shakti Network</h1>
               <p className="mt-1 text-sm text-[#6c7a7c]">Support, skills, and community</p>
             </div>
           </NavLink>

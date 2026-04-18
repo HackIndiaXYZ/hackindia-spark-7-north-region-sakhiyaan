@@ -1,4 +1,4 @@
-# 🌟 Rise Together — Shakti Network
+# 🌟 Shakti Network
 
 > **Stronger income, health, and community** — A warmer, brighter home for support, learning, and direct connection.
 
@@ -6,9 +6,9 @@
 
 ## 📖 About the App
 
-**Rise Together** is a community platform built for women in rural and semi-urban India, bridging the gap between village communities and metro-city expertise. The app connects women with verified mentors and specialists across fields like business, health, education, and mental wellness — empowering them to build skills, grow income, and support one another.
+**Shakti Network** is a community platform built for women in rural and semi-urban India, bridging the gap between village communities and metro-city expertise. The app connects women with verified mentors and specialists across fields like business, health, education, and mental wellness — empowering them to build skills, grow income, and support one another.
 
-Whether a woman wants to start a small tailoring business, learn about financial planning, access health guidance, or simply talk to someone who understands her journey — Rise Together brings the right people and resources directly to her.
+Whether a woman wants to start a small tailoring business, learn about financial planning, access health guidance, or simply talk to someone who understands her journey — Shakti Network brings the right people and resources directly to her.
 
 ---
 
@@ -103,7 +103,7 @@ The app will be available at `http://localhost:5173` (or as shown in your termin
 ## 📁 Project Structure
 
 ```
-rise-together/
+shakti-app/
 ├── public/
 ├── src/
 │   ├── components/       # Reusable UI components

@@ -63,7 +63,6 @@ export function Home() {
       <header className="aurora-header py-4 px-6">
         <div className="aurora-shell flex items-center justify-between">
           <div>
-            <p className="text-xs uppercase tracking-[0.4em] text-white/70">Shakti Network</p>
             <h1 className="text-3xl font-bold text-white">Rise Together</h1>
           </div>
           <div className="rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold text-white/90">
